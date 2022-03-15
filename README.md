@@ -31,10 +31,6 @@
 - Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
 
 
-## purpose of release ?
-my reasoning for this other release is due to me learning a lot at such a fast rate and then not having any uses for my projects so i get bored and release them also want to reach other developers and make something better out of the bad communities
-
-
 ## what are the benifits with buying the source?
 - the source code will not be a public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
 
@@ -46,3 +42,7 @@ my reasoning for this other release is due to me learning a lot at such a fast r
 - iat dumper + imports dumper
 - Dump EAC + BE Drivers
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
+
+
+## purpose of release ?
+my reasoning for this other release is due to me learning a lot at such a fast rate and then not having any uses for my projects so i get bored and release them also want to reach other developers and make something better out of the bad communities
