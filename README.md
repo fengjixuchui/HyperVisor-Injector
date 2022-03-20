@@ -1,5 +1,6 @@
 # HyperVisor-Injector
-# source for sale discord : skeng#9524
+# wanting to purchase private source add my discord : skeng#9524
+- offer reasonable price
 # if it works for you leave a star :)
 
 # How to use 
@@ -10,7 +11,7 @@
 ## injection methods 
 - manual map
 - load libary
-- x86 and x64 support
+- x64 support
 
 
 ## Requirements
@@ -36,6 +37,7 @@
 
 - UI Mode ( imgui mode of the injector )
 - dump games + the game pdb
+- use detours + minhook
 - decrypt warzone offsets
 - dump offsets for all listed titles + auto sig maker
 - choose what format you want x86 / x64
@@ -45,4 +47,4 @@
 
 
 ## purpose of release ?
-my reasoning for this other release is due to me learning a lot at such a fast rate and then not having any uses for my projects so i get bored and release them also want to reach other developers and make something better out of the bad communities
+i dont have a lot of time since im very busy, another reason being i want to give everyone a chance to step into the internal cheating field and let people have the ability to inject into many anti-cheat protected games without worry.
