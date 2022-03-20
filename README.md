@@ -1,7 +1,7 @@
 # HyperVisor-Injector
 # wanting to purchase private source add my discord : skeng#9524
 - offer reasonable price
-# if it works for you leave a star :)
+# be kind leave a star :)
 
 # How to use 
 - similar to my other injectors this will require you to use the window class name to inject into games  rename dll to [ rwx1.dll ]
@@ -11,7 +11,7 @@
 ## injection methods 
 - manual map
 - load libary
-- x64 support
+- x86 / x64 support
 
 
 ## Requirements
