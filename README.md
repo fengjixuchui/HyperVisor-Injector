@@ -7,6 +7,15 @@
 - similar to my other injectors this will require you to use the window class name to inject into games  rename dll to [ rwx1.dll ]
 - supported windows versions 1903 up till 20h2 
 
+# games ive tested on so far
+- Rust
+- Lost ark
+- Valorant
+- Apex Legends
+- Rainbow Six Siege
+- Fortnite 
+- Valorant
+
 
 ## injection methods 
 - manual map
