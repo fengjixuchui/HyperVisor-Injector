@@ -1,6 +1,7 @@
 # HyperVisor-Injector
 # private source is up for sale discord : skeng#9524
-- $300-400
+- reasonable price offers for the source please
+- i accept BTC | ETH | CashApp  
 # be kind leave a star :)
 
 # How to use 
