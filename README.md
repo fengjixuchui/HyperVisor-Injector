@@ -2,21 +2,23 @@
 # private source is up for sale discord : skeng#9524
 - reasonable price offers for the source please
 - i accept BTC | ETH | CashApp  
-# be kind leave a star :)
+# be kind leave a star if it works for you:)
+
+# version 1.1
+- status : undetected 
+
 
 # How to use 
-- similar to my other injectors this will require you to use the window class name to inject into games  rename dll to [ rwx1.dll ]
-- supported windows versions 1903 up till 20h2 
+- similar to my other injectors this will require you to use the window class name to inject into games  rename dll to rwx1.dll -> no this is not a rwx injector
+- supports all windows versions
+- put your dll in the same folder as the injector 
+- run your game then open the injector
+- type out your window class name 
+- then inject 
+- wait around 10-20 seconds for it to initalize
 
-# games ive tested on so far
-- Rust
-- Lost ark
-- Valorant
-- Apex Legends
-- Rainbow Six Siege
-- Fortnite 
-- Valorant
 
+## Supports Intel + Amd Cpu's
 
 ## Injection methods 
 - Manual Map
@@ -33,6 +35,9 @@
 - Delayed Injection ( choose how long you want to delay it for in )
 - Changes Started Thread's Start Address
 - Create Threads + Detours can be used within your dll
+- Clears Loaded Module's PE Headers
+- Changes Started Thread's Start Address
+- 
 
 
 # other stuff
@@ -83,3 +88,15 @@
 i dont have a lot of time since im very busy, another reason being i want to give everyone a chance to step into the internal cheating field and let people have the ability to inject into many anti-cheat protected games without worry.
 
 future source may be released :)
+
+
+# games ive tested on so far
+- Rust
+- Escape From Tarkov
+- Lost ark
+- Valorant
+- Apex Legends
+- Rainbow Six Siege
+- Fortnite 
+- Valorant
+
