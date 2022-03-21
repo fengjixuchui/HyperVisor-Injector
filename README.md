@@ -1,6 +1,6 @@
 # HyperVisor-Injector
-# wanting to purchase private source add my discord : skeng#9524
-- offer reasonable price
+# private source is up for sale discord : skeng#9524
+- $300-400
 # be kind leave a star :)
 
 # How to use 
@@ -17,10 +17,31 @@
 - Valorant
 
 
-## injection methods 
-- manual map
+## Injection methods 
+- Manual Map
 - load libary
 - x86 / x64 support
+- APC Injection
+- SetWindowsHook ( uses window class name to inject )
+
+
+## Injection - > extra information
+- CreateRemoteThread
+- NtCreateThreadEx
+- RtlCreateUserThread
+- Delayed Injection ( choose how long you want to delay it for in )
+- Changes Started Thread's Start Address
+- Create Threads + Detours can be used within your dll
+
+
+# other stuff
+- Simple Display Of Imports Found From File
+- Information Displayed: RVA, Original First Thunk, Name Of Module, Name Of Imported Function ( Remember that this is being parsed through file, not through running process )
+
+# process 
+- Simple Table For Processes
+- Info Displayed: PID, EXE Name, Window Name, Ram Used and Full Path
+- Allows You To Switch To NtQueryVirtualMemory For Checking Loaded Modules
 
 
 ## Requirements
@@ -41,19 +62,23 @@
 - Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
 
 
+
 ## what are the benifits with buying the source?
-- the source code will not be a public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
+- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
 
 - UI Mode ( imgui mode of the injector )
-- dump games + the game pdb
-- use detours + minhook
+- dump games + the game pdb ( some games dont work )
+- you can use detours + minhook
 - decrypt warzone offsets
-- dump offsets for all listed titles + auto sig maker
-- choose what format you want x86 / x64
-- iat dumper + imports dumper
+- decrypt rainbow 6
+- dump offsets for all titles + auto sig maker
+- choose what injection format you want x86 / x64
+- IAT dumper
 - Dump EAC + BE Drivers
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
 
 
 ## purpose of release ?
 i dont have a lot of time since im very busy, another reason being i want to give everyone a chance to step into the internal cheating field and let people have the ability to inject into many anti-cheat protected games without worry.
+
+future source may be released :)
