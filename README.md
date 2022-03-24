@@ -1,13 +1,14 @@
 # HyperVisor-Injector
+# Please read the full description!
 # if you are wanting to purchase source contact me via discord : skeng#9524
 - reasonable price offers for the source please
 
-# version 1.1
-- status : undetected 
+# version 1.2
+- current status : undetected 
 
 
-# How to use 
-- similar to my other injectors this will require you to use the window class name to inject into games  rename dll to rwx1.dll -> no this is not a rwx injector
+# How to use this ?
+- rename dll to rwx1.dll
 - supports all windows versions
 - put your dll in the same folder as the injector 
 - run your game then open the injector
@@ -35,7 +36,7 @@
 - Create Threads + Detours can be used within your dll
 - Clears Loaded Module's PE Headers
 - Changes Started Thread's Start Address
-- 
+
 
 
 # other stuff
@@ -82,10 +83,6 @@
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
 
 
-## purpose of release ?
-i dont have a lot of time since im very busy, another reason being i want to give everyone a chance to step into the internal cheating field and let people have the ability to inject into many anti-cheat protected games without worry.
-
-future source may be released :)
 
 
 # games ive tested on so far
