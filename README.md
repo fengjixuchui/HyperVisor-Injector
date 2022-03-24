@@ -7,13 +7,23 @@
 - current status : undetected 
 
 
-# How to use this ?
-- rename dll to rwx1.dll
-- supports all windows versions
-- put your dll in the same folder as the injector 
-- run your game then open the injector
-- type out your window class name 
-- then inject 
+
+## [ How To Use ? ] 
+
+make sure your dll is in the same folder 
+**re-name** your dll to **rwx1.dll** if not it wont inject
+**the dll must be in the same folder**
+
+
+
+- Make Sure you read how to use
+- Game Must Be In Windowed Mode Or Borderless
+- Disable Faceit anti-cheat / Vangaurd AntiCheat
+- Disable Firewall + AntiVirus if it doesn't inject first try 
+-  how to disable faceit / vangaurd https://prnt.sc/1qu5zhf
+-  https://prnt.sc/1qu60s5
+-  **Open the injector -> then type out your window class name**
+-  **hit enter key after typed it out**
 - wait around 10-20 seconds for it to initalize
 
 
