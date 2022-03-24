@@ -102,5 +102,5 @@ make sure your dll is in the same folder
 - Apex Legends
 - Rainbow Six Siege
 - Fortnite 
-- Valorant
+- Valorant ( tested with private version )
 
