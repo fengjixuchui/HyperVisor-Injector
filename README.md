@@ -99,7 +99,6 @@ make sure your dll is in the same folder
 - Rust
 - Escape From Tarkov
 - Lost ark
-- Valorant
 - Apex Legends
 - Rainbow Six Siege
 - Fortnite 
