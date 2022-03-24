@@ -1,8 +1,6 @@
 # HyperVisor-Injector
-# private source is up for sale discord : skeng#9524
+# if you are wanting to purchase source contact me via discord : skeng#9524
 - reasonable price offers for the source please
-- i accept BTC | ETH | CashApp  
-# be kind leave a star if it works for you:)
 
 # version 1.1
 - status : undetected 
