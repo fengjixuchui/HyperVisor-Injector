@@ -1,7 +1,7 @@
 # HyperVisor-Injector
 # Please read the full description!
-# if you are wanting to purchase source contact me via discord : skeng#9524
-- reasonable price offers for the source please
+# if you are interested in the source you can purchase source via discord : skeng#9524
+- reasonable price offers for the source
 
 # version 1.2
 - current status : undetected 
