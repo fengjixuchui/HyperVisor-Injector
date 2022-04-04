@@ -82,3 +82,8 @@ make sure your dll is in the same folder
 - Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
 - Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
 
+
+## [ Why would i release this? ]
+i am releasing this as an executable due to me not wanting people selling my source code.
+the reason i released this is because i have just started college and have not enough time to keep working on my Pay to cheat as i have already made a lot of money from my cheat and development in other projects and still make an income from certain projects of mine that have been sold on to other branches and i just don't have the time to spend 12 hours coding everyday constantly like i use to but i will keep updating the driver and the injector for everyone that wants to play on anticheat games with there own software :)
+
