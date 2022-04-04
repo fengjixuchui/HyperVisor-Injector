@@ -12,17 +12,8 @@
 make sure your dll is in the same folder 
 **re-name** your dll to **rwx1.dll** if not it wont inject
 **the dll must be in the same folder**
-
-
-
-- Make Sure you read how to use
-- Game Must Be In Windowed Mode Or Borderless
-- Disable Faceit anti-cheat / Vangaurd AntiCheat
-- Disable Firewall + AntiVirus if it doesn't inject first try 
--  how to disable faceit / vangaurd https://prnt.sc/1qu5zhf
--  https://prnt.sc/1qu60s5
--  **Open the injector -> then type out your window class name**
--  **hit enter key after typed it out**
+-  **Open the injector -> then type out your game**
+-  **hit enter key after you have typed it out**
 - wait around 10-20 seconds for it to initalize
 
 
@@ -70,12 +61,6 @@ make sure your dll is in the same folder
 - Execute code in new thread or any existing one
 
 
-## Questions ?
-- Q: does it work for all games | A: yes this does works for all games 
-- Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
-- Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
-
-
 
 ## what are the benifits with buying the source?
 - the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
@@ -92,14 +77,8 @@ make sure your dll is in the same folder
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
 
 
-
-
-# games ive tested on so far
-- Rust
-- Escape From Tarkov
-- Lost ark
-- Apex Legends
-- Rainbow Six Siege
-- Fortnite 
-- Valorant ( tested with private version )
+## Questions ?
+- Q: does it work for all games | A: yes this does works for all games 
+- Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
+- Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
 
