@@ -1,7 +1,6 @@
 # HyperVisor-Injector
 # Please read the full description!
 # if you are interested in the source you can purchase source via discord : skeng#9524
-<img src=https://cdn.discordapp.com/attachments/960093378228404234/960679112060596334/unknown.png>
 
 # version 1.2
 - current status : undetected 
