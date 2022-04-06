@@ -2,7 +2,7 @@
 # Please read the full description!
 # if you are interested in the source you can purchase source via discord : skeng#9524
 
-# version 1.2
+# version 1.4
 - current status : undetected 
 
 
