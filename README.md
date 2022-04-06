@@ -10,7 +10,7 @@
 - Riochet Status : 🟢
 
 
-## [ How To Use ? ] 
+## [ How To Use Injector ? ] 
 
 make sure your dll is in the same folder 
 **re-name** your dll to **rwx1.dll** if not it wont inject
