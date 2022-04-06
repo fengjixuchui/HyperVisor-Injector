@@ -4,7 +4,10 @@
 
 # active updates + changes to keep this undetected and safe to use !
 # version 1.4
-- current status : undetected 
+# EAC Status : 🟢
+# Vangaurd Status : 🟢
+# BattleEye Status : 🟢
+# Riochet Status : 🟢
 
 
 ## [ How To Use ? ] 
