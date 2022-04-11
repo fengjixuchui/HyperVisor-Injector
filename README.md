@@ -3,7 +3,7 @@
 # if you are interested in the source you can purchase source via discord : skeng#9524
 
 # active updates + changes to keep this undetected and safe to use !
-# version 1.4
+# version 1.5
 - EAC Status : 🟢
 - Vangaurd Status : 🟢
 - BattleEye Status : 🟢
