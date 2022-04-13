@@ -1,6 +1,7 @@
 # HyperVisor-Injector
 # Please read the full description!
 # if you are interested in the source you can purchase source via discord : skeng#9524
+Offer a reasonable price
 
 # active updates + changes to keep this undetected and safe to use !
 # version 1.5
