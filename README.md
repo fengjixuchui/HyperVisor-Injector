@@ -26,6 +26,8 @@ Offer a reasonable price
 
 ## [ How To Use Injector ? ] 
 
+# make sure you enable Hyper-V support in bios
+
 make sure your dll is in the same folder 
 **re-name** your dll to **rwx1.dll** if not it wont inject
 **the dll must be in the same folder**
