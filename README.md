@@ -1,7 +1,7 @@
 # HyperVisor-Injector
+# FULL SOURCE FOR SALE
 # Please read the full description!
 # if you are interested in the source you can purchase source via discord : skeng#9524
-Offer a reasonable price
 
 # change logs
 
