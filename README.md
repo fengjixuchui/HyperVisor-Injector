@@ -1,7 +1,9 @@
 # HyperVisor-Injector
-# FULL SOURCE FOR SALE
 # Please read the full description!
-# if you are interested in the source you can purchase source via discord : skeng#9524
+# if you are interested in the private source you can purchase source via discord : skeng#9524
+
+# before using make sure Hypervisor suport is on in bios
+depending on your motherboard it may be called something different in your bios
 
 # change logs
 
