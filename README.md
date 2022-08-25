@@ -1,9 +1,27 @@
 # HyperVisor-Injector
+# how does it recieve updates ? >> we communicate through a server to release updates to the injectors loader 
 # Please read the full description!
-# if you are interested in the source you can purchase source via discord : skeng#9524
-Offer a reasonable price
+# if you are interested in the private source you can purchase source via discord : skeng#9524
+
+# before using make sure Hypervisor suport is on in bios
+depending on your motherboard it may be called something different in your bios
 
 # change logs
+
+- - 23/06/2022
+    - updated injection method for games
+    - fixed eac blocking windows hook
+    - fixed bsod issues
+    - added automatically enable HV in bios
+    - added auto spoof registry
+    - added auto spoof HWID traces 
+    - added clean traces for most games
+
+
+ -  - 20/04/2022
+       - WindowsHook -> added ( how to use ? | enter your dll filepath + the name of the dll | then simply write what you want the output name to be ( example "cheat" )
+         what does it do ? | it converts your dll into bytes allowing the injector to read the dll bytes and inject them into your targeted game.
+
  -  - 14/04/2022
        - fixed call dll method 
        - fixed random bsod issues
@@ -12,7 +30,7 @@ Offer a reasonable price
        - imports fixed
 
 # active updates + changes to keep this undetected and safe to use !
-# version 1.5
+# version 1.6
 - EAC Status : 🟢
 - Vangaurd Status : 🟢
 - BattleEye Status : 🟢
@@ -20,6 +38,9 @@ Offer a reasonable price
 
 
 ## [ How To Use Injector ? ] 
+
+# make sure you enable Hyper-V support in bios
+some motherboards will name it differently so please look up before using
 
 make sure your dll is in the same folder 
 **re-name** your dll to **rwx1.dll** if not it wont inject
