@@ -8,6 +8,22 @@ depending on your motherboard it may be called something different in your bios
 
 # change logs
 
+- - 26/08/2022
+    - faster loading loading times 
+    - fixed crashing when injected into EFT, Valorant
+    - added ue5 support
+    - added imports support ( ex: minhook )
+    - added payload manager 
+    - added external changes ( works via config.ini )
+    - added configuration system 
+    - added dll streaming for p2c support 
+    - fixed windows 11 issues with loading HV / drivers 
+    - fixed Windows 20H2 issues with stuck on integrity checks 
+    - fixed pc booting slower after restart
+    - added auto spoof Hardware + Clear cache + traces
+    
+    
+    
 - - 23/06/2022
     - updated injection method for games
     - fixed eac blocking windows hook
