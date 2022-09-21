@@ -7,7 +7,13 @@
 depending on your motherboard it may be called something different in your bios
 
 # change logs
-
+- - 21/09/2022
+  - fixed threading issues ( causing crashes )
+  - added faster loading times 
+  - added Operation spoofing
+  - added custom shell code execution
+  - added custom target process hijacking ( injects via another process )
+  
 - - 26/08/2022
     - faster loading loading times 
     - fixed crashing when injected into EFT, Valorant
