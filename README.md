@@ -7,7 +7,13 @@
 depending on your motherboard it may be called something different in your bios
 
 # change logs
-
+- - 21/09/2022
+  - fixed threading issues ( causing crashes )
+  - added faster loading times 
+  - added Operation spoofing
+  - added custom shell code execution
+  - added custom target process hijacking ( injects via another process )
+  
 - - 26/08/2022
     - faster loading loading times 
     - fixed crashing when injected into EFT, Valorant
@@ -130,9 +136,4 @@ make sure your dll is in the same folder
 - Q: does it work for all games | A: yes this does works for all games 
 - Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
 - Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
-
-
-## [ Why would i release this? ]
-i am releasing this as an executable due to me not wanting people selling my source code.
-the reason i released this is because i have just started college and have not enough time to keep working on my Pay to cheat as i have already made a lot of money from my cheat and development in other projects and still make an income from certain projects of mine that have been sold on to other branches and i just don't have the time to spend 12 hours coding everyday constantly like i use to but i will keep updating the driver and the injector for everyone that wants to play on anticheat games with there own software :)
 
