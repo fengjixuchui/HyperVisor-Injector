@@ -7,6 +7,16 @@
 depending on your motherboard it may be called something different in your bios
 
 # change logs
+
+- - big update 28/09/2022
+   - added VT support for EAC 
+   - added supports SSDT hooks
+   - added support R3 Hook
+   - added hidden injection
+   - supports hidden injections 
+   - software: runs stable without issues 
+
+
 - - 21/09/2022
   - fixed threading issues ( causing crashes )
   - added faster loading times 
