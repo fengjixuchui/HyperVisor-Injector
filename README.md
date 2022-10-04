@@ -9,21 +9,18 @@ depending on your motherboard it may be called something different in your bios
 
 
 <details>
-<summary>Updates</summary>
+<summary>update 28/09/2022</summary>
 <br>
-This is how you dropdown.
-<br><br>
-</details>
-
-# change logs
-
-- - big update 28/09/2022
    - added VT support for EAC 
    - added supports SSDT hooks
    - added support R3 Hook
    - added hidden injection
    - supports hidden injections 
-   - software: runs stable without issues 
+   - software: runs stable without issues
+<br><br>
+</details>
+
+# change logs
 
 
 - - 21/09/2022
