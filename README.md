@@ -6,6 +6,14 @@
 # before using make sure Hypervisor suport is on in bios
 depending on your motherboard it may be called something different in your bios
 
+
+
+<details>
+<summary>Updates</summary>
+<br>
+This is how you dropdown.
+<br><br>
+
 # change logs
 
 - - big update 28/09/2022
