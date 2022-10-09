@@ -22,7 +22,9 @@ depending on your motherboard it may be called something different in your bios
 
 # change logs
 
-
+<updates>
+<summary>updates</summary>
+<br>
 - - 21/09/2022
   - fixed threading issues ( causing crashes )
   - added faster loading times 
@@ -66,9 +68,11 @@ depending on your motherboard it may be called something different in your bios
        - added que dll injection
        - fixed detections for eac + be
        - imports fixed
-
+       <br><br>
+       </updates>
+       
 # active updates + changes to keep this undetected and safe to use !
-# version 1.6
+# version 2.0
 - EAC Status : 🟢
 - Vangaurd Status : 🟢
 - BattleEye Status : 🟢
