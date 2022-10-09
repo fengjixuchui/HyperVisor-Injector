@@ -11,11 +11,11 @@ depending on your motherboard it may be called something different in your bios
 <details>
 <summary>update 09/10/2022</summary>
 <br>
- - improved security issues
- - added new bypass + other one detected
-- fixed imports crashing
-- added more methods to inject 
-- added panel for p2c devs
+ improved security issues<br>
+<br> - added new bypass + other one detected <br>
+<br>fixed imports crashing<br>
+<br>added more methods to inject <br>
+<br>added panel for p2c devs<br>
 <br><br>
 </details>
 
