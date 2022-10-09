@@ -21,16 +21,14 @@ depending on your motherboard it may be called something different in your bios
 </details>
 
 
-<updates>
-<summary>updates</summary>
-<br>
+#changes 
 - - 21/09/2022
   - fixed threading issues ( causing crashes )
   - added faster loading times 
   - added Operation spoofing
   - added custom shell code execution
   - added custom target process hijacking ( injects via another process )
-  <br><br>
+
   
 - - 26/08/2022
     - faster loading loading times 
@@ -68,8 +66,6 @@ depending on your motherboard it may be called something different in your bios
        - added que dll injection
        - fixed detections for eac + be
        - imports fixed
-       <br><br>
-       </updates>
        
 # active updates + changes to keep this undetected and safe to use !
 # version 2.0
