@@ -30,6 +30,7 @@ depending on your motherboard it may be called something different in your bios
   - added Operation spoofing
   - added custom shell code execution
   - added custom target process hijacking ( injects via another process )
+  <br><br>
   
 - - 26/08/2022
     - faster loading loading times 
