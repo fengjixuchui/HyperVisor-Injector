@@ -158,6 +158,7 @@ make sure your dll is in the same folder
 - IAT dumper
 - Dump EAC + BE Drivers
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
+- have a full private source code ( nothing public )
 
 
 ## Questions ?
