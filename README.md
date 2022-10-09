@@ -1,5 +1,5 @@
 # HyperVisor-Injector
-# how does it recieve updates ? >> we communicate through a server to release updates to the injectors loader 
+# drop a star
 # Please read the full description!
 # if you are interested in the private source you can purchase source via discord : skeng#9524
 
