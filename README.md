@@ -1,28 +1,46 @@
 # HyperVisor-Injector
-# how does it recieve updates ? >> we communicate through a server to release updates to the injectors loader 
+# drop a star
 # Please read the full description!
 # if you are interested in the private source you can purchase source via discord : skeng#9524
 
 # before using make sure Hypervisor suport is on in bios
 depending on your motherboard it may be called something different in your bios
 
-# change logs
-
-- - big update 28/09/2022
-   - added VT support for EAC 
-   - added supports SSDT hooks
-   - added support R3 Hook
-   - added hidden injection
-   - supports hidden injections 
-   - software: runs stable without issues 
 
 
+<details>
+<summary>update 09/10/2022</summary>
+ 
+<br>improved security issues<br>
+<br>  added new bypass + other one detected <br>
+<br>fixed imports crashing<br>
+<br>added more methods to inject <br>
+<br>added panel for p2c devs<br>
+ 
+<br><br>
+</details>
+
+<details>
+<summary>update 28/09/2022</summary>
+<br>
+   # added VT support for EAC 
+   # added supports SSDT hooks
+   # added support R3 Hook
+   # added hidden injection
+   # supports hidden injections 
+   # software: runs stable without issues
+<br><br>
+</details>
+
+
+# changes 
 - - 21/09/2022
   - fixed threading issues ( causing crashes )
   - added faster loading times 
   - added Operation spoofing
   - added custom shell code execution
   - added custom target process hijacking ( injects via another process )
+
   
 - - 26/08/2022
     - faster loading loading times 
@@ -60,9 +78,9 @@ depending on your motherboard it may be called something different in your bios
        - added que dll injection
        - fixed detections for eac + be
        - imports fixed
-
+       
 # active updates + changes to keep this undetected and safe to use !
-# version 1.6
+# version 2.0
 - EAC Status : 🟢
 - Vangaurd Status : 🟢
 - BattleEye Status : 🟢
@@ -140,6 +158,7 @@ make sure your dll is in the same folder
 - IAT dumper
 - Dump EAC + BE Drivers
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
+- have a full private source code ( nothing public )
 
 
 ## Questions ?
