@@ -32,52 +32,6 @@ depending on your motherboard it may be called something different in your bios
 <br><br>
 </details>
 
-
-# changes 
-- - 21/09/2022
-  - fixed threading issues ( causing crashes )
-  - added faster loading times 
-  - added Operation spoofing
-  - added custom shell code execution
-  - added custom target process hijacking ( injects via another process )
-
-  
-- - 26/08/2022
-    - faster loading loading times 
-    - fixed crashing when injected into EFT, Valorant
-    - added ue5 support
-    - added imports support ( ex: minhook )
-    - added payload manager 
-    - added external changes ( works via config.ini )
-    - added configuration system 
-    - added dll streaming for p2c support 
-    - fixed windows 11 issues with loading HV / drivers 
-    - fixed Windows 20H2 issues with stuck on integrity checks 
-    - fixed pc booting slower after restart
-    - added auto spoof Hardware + Clear cache + traces
-    
-    
-    
-- - 23/06/2022
-    - updated injection method for games
-    - fixed eac blocking windows hook
-    - fixed bsod issues
-    - added automatically enable HV in bios
-    - added auto spoof registry
-    - added auto spoof HWID traces 
-    - added clean traces for most games
-
-
- -  - 20/04/2022
-       - WindowsHook -> added ( how to use ? | enter your dll filepath + the name of the dll | then simply write what you want the output name to be ( example "cheat" )
-         what does it do ? | it converts your dll into bytes allowing the injector to read the dll bytes and inject them into your targeted game.
-
- -  - 14/04/2022
-       - fixed call dll method 
-       - fixed random bsod issues
-       - added que dll injection
-       - fixed detections for eac + be
-       - imports fixed
        
 # active updates + changes to keep this undetected and safe to use !
 # version 2.0
@@ -165,4 +119,52 @@ make sure your dll is in the same folder
 - Q: does it work for all games | A: yes this does works for all games 
 - Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
 - Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
+
+
+
+# changes 
+- - 21/09/2022
+  - fixed threading issues ( causing crashes )
+  - added faster loading times 
+  - added Operation spoofing
+  - added custom shell code execution
+  - added custom target process hijacking ( injects via another process )
+
+  
+- - 26/08/2022
+    - faster loading loading times 
+    - fixed crashing when injected into EFT, Valorant
+    - added ue5 support
+    - added imports support ( ex: minhook )
+    - added payload manager 
+    - added external changes ( works via config.ini )
+    - added configuration system 
+    - added dll streaming for p2c support 
+    - fixed windows 11 issues with loading HV / drivers 
+    - fixed Windows 20H2 issues with stuck on integrity checks 
+    - fixed pc booting slower after restart
+    - added auto spoof Hardware + Clear cache + traces
+    
+    
+    
+- - 23/06/2022
+    - updated injection method for games
+    - fixed eac blocking windows hook
+    - fixed bsod issues
+    - added automatically enable HV in bios
+    - added auto spoof registry
+    - added auto spoof HWID traces 
+    - added clean traces for most games
+
+
+ -  - 20/04/2022
+       - WindowsHook -> added ( how to use ? | enter your dll filepath + the name of the dll | then simply write what you want the output name to be ( example "cheat" )
+         what does it do ? | it converts your dll into bytes allowing the injector to read the dll bytes and inject them into your targeted game.
+
+ -  - 14/04/2022
+       - fixed call dll method 
+       - fixed random bsod issues
+       - added que dll injection
+       - fixed detections for eac + be
+       - imports fixed
 
