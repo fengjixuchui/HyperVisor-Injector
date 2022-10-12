@@ -105,12 +105,12 @@ make sure your dll is in the same folder
 - UI Mode ( imgui mode of the injector )
 - dump games + the game pdb ( some games dont work )
 - you can use detours + minhook
-- decrypt warzone offsets
-- decrypt rainbow 6
+- decrypt offsets
 - dump offsets for all titles + auto sig maker
 - choose what injection format you want x86 / x64
 - IAT dumper
 - Dump EAC + BE Drivers
+- inject without any detections
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
 - have a full private source code ( nothing public )
 
