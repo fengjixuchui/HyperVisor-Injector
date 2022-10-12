@@ -47,7 +47,7 @@ depending on your motherboard it may be called something different in your bios
 some motherboards will name it differently so please look up before using
 
 make sure your dll is in the same folder 
-**re-name** your dll to **rwx1.dll** if not it wont inject
+**re-name** your dll to **test.dll** if not it wont inject
 **the dll must be in the same folder**
 -  **Open the injector -> then type out your game**
 -  **hit enter key after you have typed it out**
