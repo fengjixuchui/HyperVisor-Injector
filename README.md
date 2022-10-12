@@ -43,7 +43,7 @@ depending on your motherboard it may be called something different in your bios
 
 ## [ How To Use Injector ? ] 
 
-# make sure you enable Hyper-V support in bios
+- make sure you enable Hyper-V support in bios
 some motherboards will name it differently so please look up before using
 
 make sure your dll is in the same folder 
