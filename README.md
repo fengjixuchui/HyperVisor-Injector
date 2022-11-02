@@ -11,10 +11,12 @@ depending on your motherboard it may be called something different in your bios
 <details>
 <summary>small update 2/11/2022</summary>
 <br>
-   # added new bypass method for new EasyAntiCheat client
-   # supported mono-injection
+   <br>added new bypass method for new EasyAntiCheat client<br>
+   <br>supported mono-injection<br>
 <br><br>
 </details>
+
+
 
 <details>
 <summary>update 09/10/2022</summary>
@@ -27,6 +29,8 @@ depending on your motherboard it may be called something different in your bios
  
 <br><br>
 </details>
+
+
 
 <details>
 <summary>update 28/09/2022</summary>
