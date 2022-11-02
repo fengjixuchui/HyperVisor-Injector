@@ -1,12 +1,20 @@
 # HyperVisor-Injector
-# drop a star
-# Please read the full description!
+# LEAVE A STAR IF WORKED 
+# READ FULL POST 
 # if you are interested in the private source you can purchase source via discord : skeng#9524
 
 # before using make sure Hypervisor suport is on in bios
 depending on your motherboard it may be called something different in your bios
 
 
+
+<details>
+<summary>small update 2/11/2022</summary>
+<br>
+   # added new bypass method for new EasyAntiCheat client
+   # supported mono-injection
+<br><br>
+</details>
 
 <details>
 <summary>update 09/10/2022</summary>
@@ -34,8 +42,9 @@ depending on your motherboard it may be called something different in your bios
 
        
 # active updates + changes to keep this undetected and safe to use !
-# version 2.0
+# version 2.2
 - EAC Status : 🟢
+- FREE EAC Status : Undetected
 - Vangaurd Status : 🟢
 - BattleEye Status : 🟢
 - Riochet Status : 🟢
@@ -62,6 +71,8 @@ make sure your dll is in the same folder
 - x86 / x64 support
 - APC Injection
 - SetWindowsHook ( uses window class name to inject )
+- Hyper-Visor
+- RWX Injection
 
 
 ## Injection - > extra information
@@ -99,20 +110,23 @@ make sure your dll is in the same folder
 
 
 
-## what are the benifits with buying the source?
+##  BENIFITS THAT COME WITH BUYING PRIVATE SOURCE CODE?
 - the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
 
 - UI Mode ( imgui mode of the injector )
 - dump games + the game pdb ( some games dont work )
 - you can use detours + minhook
-- decrypt offsets
-- dump offsets for all titles + auto sig maker
+- decrypt offsets ( rainbow 6, warzone )
+- dump offsets for all titles
 - choose what injection format you want x86 / x64
 - IAT dumper
-- Dump EAC + BE Drivers
+- cheat engine support + other debuggers
+- offset dumper
+- Dump EAC + BE
+- edit packets / spoof packets
 - inject without any detections
-- Anti-Cheat Emulator ( allowing you to do anything you want practically )
-- have a full private source code ( nothing public )
+- Anti-Cheat Emulator ( allowing you to do play without running anti-cheat )
+- have a full private source code ( fully undetected + Secure source code )
 
 
 ## Questions ?
