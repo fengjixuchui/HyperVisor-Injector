@@ -1,10 +1,20 @@
 # HyperVisor-Injector
-# drop a star
-# Please read the full description!
+# LEAVE A STAR IF WORKED 
+# READ FULL POST 
 # if you are interested in the private source you can purchase source via discord : skeng#9524
 
 # before using make sure Hypervisor suport is on in bios
 depending on your motherboard it may be called something different in your bios
+
+
+
+<details>
+<summary>small update 2/11/2022</summary>
+<br>
+   <br>added new bypass method for new EasyAntiCheat client<br>
+   <br>supported mono-injection<br>
+<br><br>
+</details>
 
 
 
@@ -20,6 +30,8 @@ depending on your motherboard it may be called something different in your bios
 <br><br>
 </details>
 
+
+
 <details>
 <summary>update 28/09/2022</summary>
 <br>
@@ -31,6 +43,101 @@ depending on your motherboard it may be called something different in your bios
    # software: runs stable without issues
 <br><br>
 </details>
+
+       
+# active updates + changes to keep this undetected and safe to use !
+# version 2.2
+- EAC Status : 🟢
+- FREE EAC Status : Undetected
+- Vangaurd Status : 🟢
+- BattleEye Status : 🟢
+- Riochet Status : 🟢
+
+
+## [ How To Use Injector ? ] 
+
+- make sure you enable Hyper-V support in bios
+some motherboards will name it differently so please look up before using
+
+make sure your dll is in the same folder 
+**re-name** your dll to **test.dll** if not it wont inject
+**the dll must be in the same folder**
+-  **Open the injector -> then type out your game**
+-  **hit enter key after you have typed it out**
+- wait around 10-20 seconds for it to initalize
+
+
+## Supports Intel + Amd Cpu's
+
+## Injection methods 
+- Manual Map
+- load libary
+- x86 / x64 support
+- APC Injection
+- SetWindowsHook ( uses window class name to inject )
+- Hyper-Visor
+- RWX Injection
+
+
+## Injection - > extra information
+- CreateRemoteThread
+- NtCreateThreadEx
+- RtlCreateUserThread
+- Delayed Injection ( choose how long you want to delay it for in )
+- Changes Started Thread's Start Address
+- Create Threads + Detours can be used within your dll
+- Clears Loaded Module's PE Headers
+- Changes Started Thread's Start Address
+
+
+
+# other stuff
+- Simple Display Of Imports Found From File
+- Information Displayed: RVA, Original First Thunk, Name Of Module, Name Of Imported Function ( Remember that this is being parsed through file, not through running process )
+
+# process 
+- Simple Table For Processes
+- Info Displayed: PID, EXE Name, Window Name, Ram Used and Full Path
+- Allows You To Switch To NtQueryVirtualMemory For Checking Loaded Modules
+
+
+## Requirements
+- C++ Redistributables 2015, 2017, 2019, and 2022 
+
+# Remote code execution
+- Execute functions in remote process
+- Assemble own code and execute it remotely
+- Support for cdecl/stdcall/thiscall/fastcall conventions
+- Support for arguments passed by value, pointer or reference, including structures
+- FPU types are supported
+- Execute code in new thread or any existing one
+
+
+
+##  BENIFITS THAT COME WITH BUYING PRIVATE SOURCE CODE?
+- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
+
+- UI Mode ( imgui mode of the injector )
+- dump games + the game pdb ( some games dont work )
+- you can use detours + minhook
+- decrypt offsets ( rainbow 6, warzone )
+- dump offsets for all titles
+- choose what injection format you want x86 / x64
+- IAT dumper
+- cheat engine support + other debuggers
+- offset dumper
+- Dump EAC + BE
+- edit packets / spoof packets
+- inject without any detections
+- Anti-Cheat Emulator ( allowing you to do play without running anti-cheat )
+- have a full private source code ( fully undetected + Secure source code )
+
+
+## Questions ?
+- Q: does it work for all games | A: yes this does works for all games 
+- Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
+- Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
+
 
 
 # changes 
@@ -78,91 +185,4 @@ depending on your motherboard it may be called something different in your bios
        - added que dll injection
        - fixed detections for eac + be
        - imports fixed
-       
-# active updates + changes to keep this undetected and safe to use !
-# version 2.0
-- EAC Status : 🟢
-- Vangaurd Status : 🟢
-- BattleEye Status : 🟢
-- Riochet Status : 🟢
-
-
-## [ How To Use Injector ? ] 
-
-# make sure you enable Hyper-V support in bios
-some motherboards will name it differently so please look up before using
-
-make sure your dll is in the same folder 
-**re-name** your dll to **rwx1.dll** if not it wont inject
-**the dll must be in the same folder**
--  **Open the injector -> then type out your game**
--  **hit enter key after you have typed it out**
-- wait around 10-20 seconds for it to initalize
-
-
-## Supports Intel + Amd Cpu's
-
-## Injection methods 
-- Manual Map
-- load libary
-- x86 / x64 support
-- APC Injection
-- SetWindowsHook ( uses window class name to inject )
-
-
-## Injection - > extra information
-- CreateRemoteThread
-- NtCreateThreadEx
-- RtlCreateUserThread
-- Delayed Injection ( choose how long you want to delay it for in )
-- Changes Started Thread's Start Address
-- Create Threads + Detours can be used within your dll
-- Clears Loaded Module's PE Headers
-- Changes Started Thread's Start Address
-
-
-
-# other stuff
-- Simple Display Of Imports Found From File
-- Information Displayed: RVA, Original First Thunk, Name Of Module, Name Of Imported Function ( Remember that this is being parsed through file, not through running process )
-
-# process 
-- Simple Table For Processes
-- Info Displayed: PID, EXE Name, Window Name, Ram Used and Full Path
-- Allows You To Switch To NtQueryVirtualMemory For Checking Loaded Modules
-
-
-## Requirements
-- C++ Redistributables 2015, 2017, 2019, and 2022 
-
-# Remote code execution
-- Execute functions in remote process
-- Assemble own code and execute it remotely
-- Support for cdecl/stdcall/thiscall/fastcall conventions
-- Support for arguments passed by value, pointer or reference, including structures
-- FPU types are supported
-- Execute code in new thread or any existing one
-
-
-
-## what are the benifits with buying the source?
-- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
-
-- UI Mode ( imgui mode of the injector )
-- dump games + the game pdb ( some games dont work )
-- you can use detours + minhook
-- decrypt warzone offsets
-- decrypt rainbow 6
-- dump offsets for all titles + auto sig maker
-- choose what injection format you want x86 / x64
-- IAT dumper
-- Dump EAC + BE Drivers
-- Anti-Cheat Emulator ( allowing you to do anything you want practically )
-- have a full private source code ( nothing public )
-
-
-## Questions ?
-- Q: does it work for all games | A: yes this does works for all games 
-- Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
-- Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
 
