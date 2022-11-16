@@ -46,7 +46,7 @@ depending on your motherboard it may be called something different in your bios
 
        
 # active updates + changes to keep this undetected and safe to use !
-# version 2.2
+# version 2.3
 - EAC Status : 🟢
 - FREE EAC Status : Undetected
 - Vangaurd Status : 🟢
@@ -62,9 +62,8 @@ some motherboards will name it differently so please look up before using
 make sure your dll is in the same folder 
 **re-name** your dll to **test.dll** if not it wont inject
 **the dll must be in the same folder**
--  **Open the injector -> then type out your game**
+-  **Open the injector -> then type out your game **
 -  **hit enter key after you have typed it out**
-- wait around 10-20 seconds for it to initalize
 
 
 ## Supports Intel + Amd Cpu's
