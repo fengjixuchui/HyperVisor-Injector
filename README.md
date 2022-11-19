@@ -62,7 +62,7 @@ some motherboards will name it differently so please look up before using
 make sure your dll is in the same folder 
 **re-name** your dll to **test.dll** if not it wont inject
 **the dll must be in the same folder**
--  **Open the injector -> then type out your game **
+-  **Open the injector -> then type out your game ( if this doesnt work type the window class name ) **
 -  **hit enter key after you have typed it out**
 
 
