@@ -3,10 +3,12 @@
 # READ FULL POST 
 # if you are interested in the private source you can purchase source via discord : skeng#9524
 
+
+
 # before using make sure Hypervisor suport is on in bios
 depending on your motherboard it may be called something different in your bios
 
-
+64bit only
 
 <details>
 <summary>small update 2/11/2022</summary>
