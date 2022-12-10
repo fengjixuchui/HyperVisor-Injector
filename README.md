@@ -3,16 +3,18 @@
 # READ FULL POST 
 # if you are interested in the private source you can purchase source via discord : skeng#9524
 
+
+
 # before using make sure Hypervisor suport is on in bios
 depending on your motherboard it may be called something different in your bios
 
-
+64bit only
 
 <details>
 <summary>small update 2/11/2022</summary>
 <br>
    <br>added new bypass method for new EasyAntiCheat client<br>
-   <br>supported mono-injection<br>
+   <br>Private - supported mono-injection<br>
 <br><br>
 </details>
 
@@ -25,7 +27,7 @@ depending on your motherboard it may be called something different in your bios
 <br>  added new bypass + other one detected <br>
 <br>fixed imports crashing<br>
 <br>added more methods to inject <br>
-<br>added panel for p2c devs<br>
+<br>Private ver - added panel for p2c devs<br>
  
 <br><br>
 </details>
@@ -46,7 +48,7 @@ depending on your motherboard it may be called something different in your bios
 
        
 # active updates + changes to keep this undetected and safe to use !
-# version 2.2
+# version 2.3
 - EAC Status : 🟢
 - FREE EAC Status : Undetected
 - Vangaurd Status : 🟢
@@ -62,9 +64,8 @@ some motherboards will name it differently so please look up before using
 make sure your dll is in the same folder 
 **re-name** your dll to **test.dll** if not it wont inject
 **the dll must be in the same folder**
--  **Open the injector -> then type out your game**
+-  **Open the injector -> then type out your game ( if this doesnt work type the window class name ) **
 -  **hit enter key after you have typed it out**
-- wait around 10-20 seconds for it to initalize
 
 
 ## Supports Intel + Amd Cpu's
