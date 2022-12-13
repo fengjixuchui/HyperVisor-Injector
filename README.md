@@ -1,7 +1,7 @@
 # HyperVisor-Injector
 # LEAVE A STAR IF WORKED 
 # READ FULL POST 
-# if you are interested in the private source you can purchase source via discord : skeng#9524
+# if you are interested in a full private source you can purchase source via discord : skeng#9524
 
 
 
@@ -76,7 +76,6 @@ make sure your dll is in the same folder
 - x86 / x64 support
 - APC Injection
 - SetWindowsHook ( uses window class name to inject )
-- Hyper-Visor
 - RWX Injection
 
 
