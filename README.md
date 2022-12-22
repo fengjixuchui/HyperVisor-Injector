@@ -1,5 +1,5 @@
 # HyperVisor-Injector
-# LEAVE A STAR IF WORKED 
+# LEAVE A STAR IF WORKED + share with friends
 # READ FULL POST 
 # if you are interested in a full private source you can purchase source via discord : skeng#9524
 
