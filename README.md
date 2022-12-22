@@ -48,9 +48,8 @@ depending on your motherboard it may be called something different in your bios
 
        
 # active updates + changes to keep this undetected and safe to use !
-# version 2.3
+# version 3.0
 - EAC Status : 🟢
-- FREE EAC Status : Undetected
 - Vangaurd Status : 🟢
 - BattleEye Status : 🟢
 - Riochet Status : 🟢
@@ -70,7 +69,8 @@ make sure your dll is in the same folder
 
 ## Supports Intel + Amd Cpu's
 
-## Injection methods 
+
+## Multiple Injection methods To Choose
 - Manual Map
 - load libary
 - x86 / x64 support
@@ -114,8 +114,8 @@ make sure your dll is in the same folder
 
 
 
-##  BENIFITS THAT COME WITH BUYING PRIVATE SOURCE CODE?
-- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
+##  WHAT IS THE BENIFITS THAT COME WITH BUYING PRIVATE SOURCE CODE?
+- It is fully private source code and you will be given a complete Hypervisor with instructions + help and support needed to get everything set up and working
 
 - UI Mode ( imgui mode of the injector )
 - dump games + the game pdb ( some games dont work )
