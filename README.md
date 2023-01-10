@@ -1,8 +1,8 @@
 # HyperVisor-Injector
-# LEAVE A STAR IF WORKED
+# Please LEAVE A STAR IF WORKED
 # last Updated 3/01/2023
 # READ FULL POST 
-# if you are interested in the private source you can purchase source via discord : skeng#9524
+# if you are interested buying my private source you can contact me via discord : skeng#9524
 
 
 
