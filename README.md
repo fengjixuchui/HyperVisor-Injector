@@ -73,6 +73,13 @@ make sure your dll is in the same folder
 -  **hit enter key after you have typed it out**
 
 
+## How to find the class to inject into ?
+- head over to https://www.nirsoft.net/utils/winlister.html and download winlister x64 or x32
+- open it up look for your process for my example i will use notepad
+- right click on the process that you are wanting to inject into 
+<img src="https://i.ibb.co/BL79h5h/tempsnip.png">
+
+
 ## Supports Intel + Amd Cpu's
 
 
