@@ -1,9 +1,11 @@
 # HyperVisor-Injector
 - Tested on Windows 10 20h2 : OS Build 19042.1586
-# Please LEAVE A STAR IF WORKED
+# Please LEAVE A STAR IF WORKED ( 200 star for new injector release )
 # last Updated 3/01/2023
-# READ FULL POST 
-# if you are interested buying my private source you can contact me via discord : skeng#9524
+
+
+# if you are interested purchasing my private source or want your own develped you can contact me via discord : skeng#9524
+- perfect if you are starting up a p2c 
 
 
 
@@ -122,18 +124,13 @@ make sure your dll is in the same folder
 - It is fully private source code and you will be given a complete Hypervisor with instructions + help and support needed to get everything set up and working
 
 - UI Mode ( imgui mode of the injector )
-- dump games + the game pdb ( some games dont work )
 - you can use detours + minhook
 - decrypt offsets ( rainbow 6, warzone )
-- dump offsets for all titles
 - choose what injection format you want x86 / x64
 - IAT dumper
 - cheat engine support + other debuggers
 - offset dumper
-- Dump EAC + BE
-- edit packets / spoof packets
 - inject without any detections
-- Anti-Cheat Emulator ( allowing you to do play without running anti-cheat )
 - have a full private source code ( fully undetected + Secure source code )
 
 
@@ -141,52 +138,5 @@ make sure your dll is in the same folder
 - Q: does it work for all games | A: yes this does works for all games 
 - Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
 - Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
-
-
-
-# changes 
-- - 21/09/2022
-  - fixed threading issues ( causing crashes )
-  - added faster loading times 
-  - added Operation spoofing
-  - added custom shell code execution
-  - added custom target process hijacking ( injects via another process )
-
-  
-- - 26/08/2022
-    - faster loading loading times 
-    - fixed crashing when injected into EFT, Valorant
-    - added ue5 support
-    - added imports support ( ex: minhook )
-    - added payload manager 
-    - added external changes ( works via config.ini )
-    - added configuration system 
-    - added dll streaming for p2c support 
-    - fixed windows 11 issues with loading HV / drivers 
-    - fixed Windows 20H2 issues with stuck on integrity checks 
-    - fixed pc booting slower after restart
-    - added auto spoof Hardware + Clear cache + traces
-    
-    
-    
-- - 23/06/2022
-    - updated injection method for games
-    - fixed eac blocking windows hook
-    - fixed bsod issues
-    - added automatically enable HV in bios
-    - added auto spoof registry
-    - added auto spoof HWID traces 
-    - added clean traces for most games
-
-
- -  - 20/04/2022
-       - WindowsHook -> added ( how to use ? | enter your dll filepath + the name of the dll | then simply write what you want the output name to be ( example "cheat" )
-         what does it do ? | it converts your dll into bytes allowing the injector to read the dll bytes and inject them into your targeted game.
-
- -  - 14/04/2022
-       - fixed call dll method 
-       - fixed random bsod issues
-       - added que dll injection
-       - fixed detections for eac + be
-       - imports fixed
+- Q: If i purchase do i get the same source as the public version | A: No you get a completly private source code that only you will have
 
