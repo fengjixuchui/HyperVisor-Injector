@@ -77,6 +77,8 @@ make sure your dll is in the same folder
 # having issues on Windows 11 ?
 - type this as admin in cmd
 - reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnerableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
+- reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnrableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
+- reg add HKLM\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity/v "Enabled" /t REG_DWORD /d 0 /f
 
 ## How to find the class to inject into ?
 - head over to https://www.nirsoft.net/utils/winlister.html and download winlister x64 or x32
