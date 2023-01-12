@@ -46,7 +46,6 @@ depending on your motherboard it may be called something different in your bios
    # added support R3 Hook
    # added hidden injection
    # supports hidden injections 
-   # software: runs stable without issues
 <br><br>
 </details>
 
