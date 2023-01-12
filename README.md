@@ -80,6 +80,8 @@ make sure your dll is in the same folder
 - reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnrableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
 - reg add HKLM\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity/v "Enabled" /t REG_DWORD /d 0 /f
 
+To apply the changes, you will need to reboot the system.
+
 ## How to find the class to inject into ?
 - head over to https://www.nirsoft.net/utils/winlister.html and download winlister x64 or x32
 - open it up look for your process for my example i will use notepad
