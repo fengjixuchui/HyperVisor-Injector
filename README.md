@@ -1,4 +1,5 @@
 # HyperVisor-Injector
+- Tested on Windows 10 20h2 : OS Build 19042.1586
 # Please LEAVE A STAR IF WORKED
 # last Updated 3/01/2023
 # READ FULL POST 
@@ -50,8 +51,10 @@ depending on your motherboard it may be called something different in your bios
        
 # active updates + changes to keep this undetected and safe to use !
 # version 3.0
-- EAC Status : 🟢
-- Vangaurd Status : 🟢
+- Easy Anti Cheat Status : 🟢
+- EAC Eos Status : 🟢
+- Battleye Status : 🟢
+- Vanguard Status : 🟢
 - BattleEye Status : 🟢
 - Riochet Status : 🟢
 
