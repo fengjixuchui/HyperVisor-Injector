@@ -52,7 +52,7 @@ depending on your motherboard it may be called something different in your bios
 
        
 # active updates + changes to keep this undetected and safe to use !
-# version 3.0
+# version 4.0
 - Easy Anti Cheat Status : 🟢
 - EAC Eos Status : 🟢
 - Battleye Status : 🟢
