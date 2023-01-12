@@ -9,8 +9,10 @@
 
 
 
-# before using make sure Hypervisor suport is on in bios
-depending on your motherboard it may be called something different in your bios
+# before using you must do this
+Please enable hyper-v in "turn windows features on or off". Then run launch.bat as admin, this will mount the EFI partition and move some files around then reboot you. Voyager is designed to recover from a crash. The first thing Voyager will do when executed is restore bootmgfw on disk. If any complications occur during boot you can simply reboot.
+<img src="https://imgur.com/uOpcCp7.png">
+
 
 64bit only
 
