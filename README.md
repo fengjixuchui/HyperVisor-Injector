@@ -70,8 +70,6 @@ make sure your dll is in the same folder
 -  **hit enter key after you have typed it out then wait for it to inject**
 
 <video src="https://streamable.com/gyqihv" controls>
-  Your browser does not support the video tag.
-</video>
 
 
 # having issues on Windows 11 ?
