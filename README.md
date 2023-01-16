@@ -4,50 +4,18 @@
 # last Updated 12/01/2023
 
 
-# if you are interested purchasing my private sources or want your own developed you can contact me via discord : skeng#9524
+# If you are interested purchasing my private sources or want your own developed you can contact me via discord : skeng#9524
 - this is perfect if you are starting up a p2c 
 
 
 
 # before using you must do this
 Please enable hyper-v in "turn windows features on or off". Then run launch.bat as admin, this will mount the EFI partition and move some files around then reboot you. Voyager is designed to recover from a crash. The first thing Voyager will do when executed is restore bootmgfw on disk. If any complications occur during boot you can simply reboot.
+
 <img src="https://imgur.com/uOpcCp7.png">
 
 
 public version supports 64bit games only
-
-<details>
-<summary>small update 2/11/2022</summary>
-<br>
-   <br>added new bypass method for new EasyAntiCheat client<br>
-   <br>Private - supported mono-injection<br>
-<br><br>
-</details>
-
-
-
-<details>
-<summary>update 09/10/2022</summary>
- 
-<br>improved security issues<br>
-<br>Private ver - added panel for p2c devs<br>
- 
-<br><br>
-</details>
-
-
-
-<details>
-<summary>update 28/09/2022</summary>
-<br>
-   # added VT support for EAC 
-   # added supports SSDT hooks
-   # added support R3 Hook
-   # added hidden injection
-   # supports hidden injections 
-   
-<br><br>
-</details>
 
        
 # active updates + changes to keep this undetected and safe to use !
