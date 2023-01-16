@@ -4,7 +4,7 @@
 # last Updated 12/01/2023
 
 
-# if you are interested purchasing my private sources or want your own develped you can contact me via discord : skeng#9524
+# if you are interested purchasing my private sources or want your own developed you can contact me via discord : skeng#9524
 - this is perfect if you are starting up a p2c 
 
 
