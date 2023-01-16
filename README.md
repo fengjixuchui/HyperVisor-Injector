@@ -46,8 +46,6 @@ public version supports 64bit games only
    # added hidden injection
    # supports hidden injections 
    
-   
-   <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/gyqihv" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 <br><br>
 </details>
 
@@ -67,9 +65,13 @@ public version supports 64bit games only
 make sure your dll is in the same folder 
 **re-name** your dll to **test.dll** if not it wont inject
 **the dll must be in the same folder as the injector**
+- **have your game open** 
 -  **Open the injector -> then type out your game ( if this doesnt work type the window class name ) **
--  **hit enter key after you have typed it out**
--  
+-  **hit enter key after you have typed it out then wait for it to inject**
+
+<video src="https://streamable.com/gyqihv" controls>
+  Your browser does not support the video tag.
+</video>
 
 
 # having issues on Windows 11 ?
