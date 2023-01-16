@@ -85,7 +85,7 @@ To apply the changes, you will need to reboot the system.
 - then find Class: and copy that and paste it into the injector 
 <img src="https://i.ibb.co/BL79h5h/tempsnip.png">
 
-[![Watch the video]](https://streamable.com/gyqihv)
+[![Watch the video](https://streamable.com/e/gyqihv)](https://streamable.com/gyqihv)
 
 
 
