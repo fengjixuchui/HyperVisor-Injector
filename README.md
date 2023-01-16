@@ -69,7 +69,7 @@ make sure your dll is in the same folder
 -  **Open the injector -> then type out your game ( if this doesnt work type the window class name ) **
 -  **hit enter key after you have typed it out then wait for it to inject**
 
-<video src="https://streamable.com/gyqihv" controls>
+<video src="https://streamable.com/gyqihv">
 
 
 # having issues on Windows 11 ?
