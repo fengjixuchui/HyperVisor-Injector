@@ -45,6 +45,9 @@ public version supports 64bit games only
    # added support R3 Hook
    # added hidden injection
    # supports hidden injections 
+   
+   
+   <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/gyqihv" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 <br><br>
 </details>
 
@@ -66,8 +69,7 @@ make sure your dll is in the same folder
 **the dll must be in the same folder as the injector**
 -  **Open the injector -> then type out your game ( if this doesnt work type the window class name ) **
 -  **hit enter key after you have typed it out**
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/gyqihv" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+-  
 
 
 # having issues on Windows 11 ?
