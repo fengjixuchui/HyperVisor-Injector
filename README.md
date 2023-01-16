@@ -69,8 +69,6 @@ make sure your dll is in the same folder
 -  **Open the injector -> then type out your game ( if this doesnt work type the window class name ) **
 -  **hit enter key after you have typed it out then wait for it to inject**
 
-<video src="https://streamable.com/gyqihv">
-
 
 # having issues on Windows 11 ?
 - type this as admin in cmd
@@ -86,6 +84,7 @@ To apply the changes, you will need to reboot the system.
 - double click on the process that you are wanting to inject into 
 - then find Class: and copy that and paste it into the injector 
 <img src="https://i.ibb.co/BL79h5h/tempsnip.png">
+<video src="https://streamable.com/gyqihv">
 
 
 ## Supports Intel + Amd Cpu's
