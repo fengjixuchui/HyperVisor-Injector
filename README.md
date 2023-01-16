@@ -120,6 +120,7 @@ To apply the changes, you will need to reboot the system.
 
 ## Requirements
 - C++ Redistributables 2015, 2017, 2019, and 2022 
+- download at https://www.microsoft.com/en-gb/download/details.aspx?id=48145
 
 # Remote code execution
 - Execute functions in remote process
