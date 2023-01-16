@@ -4,8 +4,8 @@
 # last Updated 12/01/2023
 
 
-# if you are interested purchasing my private source or want your own develped you can contact me via discord : skeng#9524
-- perfect if you are starting up a p2c 
+# if you are interested purchasing my private sources or want your own develped you can contact me via discord : skeng#9524
+- this is perfect if you are starting up a p2c 
 
 
 
@@ -14,7 +14,7 @@ Please enable hyper-v in "turn windows features on or off". Then run launch.bat 
 <img src="https://imgur.com/uOpcCp7.png">
 
 
-64bit only
+public version supports 64bit games only
 
 <details>
 <summary>small update 2/11/2022</summary>
@@ -30,9 +30,6 @@ Please enable hyper-v in "turn windows features on or off". Then run launch.bat 
 <summary>update 09/10/2022</summary>
  
 <br>improved security issues<br>
-<br>  added new bypass + other one detected <br>
-<br>fixed imports crashing<br>
-<br>added more methods to inject <br>
 <br>Private ver - added panel for p2c devs<br>
  
 <br><br>
@@ -64,12 +61,9 @@ Please enable hyper-v in "turn windows features on or off". Then run launch.bat 
 
 ## [ How To Use Injector ? ] 
 
-- make sure you enable Hyper-V support in bios
-some motherboards will name it differently so please look up before using
-
 make sure your dll is in the same folder 
 **re-name** your dll to **test.dll** if not it wont inject
-**the dll must be in the same folder**
+**the dll must be in the same folder as the injector**
 -  **Open the injector -> then type out your game ( if this doesnt work type the window class name ) **
 -  **hit enter key after you have typed it out**
 
@@ -77,10 +71,10 @@ make sure your dll is in the same folder
 # having issues on Windows 11 ?
 - type this as admin in cmd
 - reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnerableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
-- reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnrableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
 - reg add HKLM\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity/v "Enabled" /t REG_DWORD /d 0 /f
 
 To apply the changes, you will need to reboot the system.
+
 
 ## How to find the class to inject into ?
 - head over to https://www.nirsoft.net/utils/winlister.html and download winlister x64 or x32
@@ -149,6 +143,9 @@ To apply the changes, you will need to reboot the system.
 - offset dumper
 - inject without any detections
 - have a full private source code ( fully undetected + Secure source code )
+- can hold hundred of users at one time
+- custome builds 
+- panel api + loader for the hypervisor ( if you are wanting to have a secure loader for p2c and secure method of loading )
 
 
 ## Questions ?
