@@ -67,6 +67,8 @@ make sure your dll is in the same folder
 -  **Open the injector -> then type out your game ( if this doesnt work type the window class name ) **
 -  **hit enter key after you have typed it out**
 
+(https://streamable.com/gyqihv) "Injection")
+
 
 # having issues on Windows 11 ?
 - type this as admin in cmd
