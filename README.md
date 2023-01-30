@@ -1,6 +1,6 @@
 # HyperVisor-Injector
 - Tested on Windows 10 20h2 : OS Build 19042.1586
-# LEAVE A STAR IF IT WORKED FOR YOU ( 200 star for new injector release )
+# LEAVE A STAR IF IT WORKED FOR YOU ( 200 stars for new injector release )
 # last Updated 12/01/2023
 
 
@@ -15,13 +15,12 @@ Please enable hyper-v in "turn windows features on or off". Then run launch.bat 
 <img src="https://imgur.com/uOpcCp7.png">
 
 
-public version supports 64bit games only
+INFORMATION: The public version of this injector Supports 64bit games only
 
        
 # active updates + changes to keep this undetected and safe to use !
-# version 4.0
+# version 5.0
 - Easy Anti Cheat Status : 🟢
-- EAC Eos Status : 🟢
 - Battleye Status : 🟢
 - Vanguard Status : 🟢
 - BattleEye Status : 🟢
@@ -33,8 +32,8 @@ public version supports 64bit games only
 make sure your dll is in the same folder 
 **re-name** your dll to **test.dll** if not it wont inject
 **the dll must be in the same folder as the injector**
-- **have your game open** 
--  **Open the injector -> then type out your game ( if this doesnt work type the window class name ) **
+- **have your game open when using the injector** 
+-  **Open the injector -> then type out your games class name ( if this doesnt work type the window class name ) **
 -  **hit enter key after you have typed it out then wait for it to inject**
 
 [![Video Of Injection]](https://streamable.com/gyqihv)
