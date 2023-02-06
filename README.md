@@ -39,12 +39,13 @@ make sure your dll is in the same folder
 [![Video Of Injection]](https://streamable.com/gyqihv)
 
 
-# having issues on Windows 11 ?
+# having issues injecting on higher windows versions ?
 - type this as admin in cmd
 - reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnerableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
 - reg add HKLM\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity/v "Enabled" /t REG_DWORD /d 0 /f
 
 To apply the changes, you will need to reboot the system.
+Note: if these dont work please disable all exploit protection and TPM then try again
 
 
 ## How to find the class to inject into ?
