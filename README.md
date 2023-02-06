@@ -4,8 +4,9 @@
 # last Updated 12/01/2023
 
 
-# If you are interested purchasing my private sources or want your own developed you can contact me via discord : skeng#9524
+# If you are interested purchasing my private source codes or want your own developed you can contact me via discord : skeng#9524
 - this is perfect if you are starting up a p2c 
+- i will not sell the same one as posted on github ( it will be fully undetected and supported for all game engines / anti-cheat )
 
 
 
