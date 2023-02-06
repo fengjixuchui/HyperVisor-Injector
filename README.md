@@ -105,13 +105,11 @@ To apply the changes, you will need to reboot the system.
 
 
 
-##  WHAT IS THE BENIFITS THAT COME WITH BUYING PRIVATE SOURCE CODE?
-- It is fully private source code and you will be given a complete Hypervisor with instructions + help and support needed to get everything set up and working
+##  WHAT ARE THE BENIFITS THAT COME WITH BUYING THE PRIVATE SOURCE CODE?
+- It is fully private source code and you will be given a complete HyperVisor with instructions + help and support needed to get everything set up and working
 
 - UI Mode ( imgui mode of the injector )
 - you can use detours + minhook
-- decrypt offsets ( rainbow 6, warzone )
-- choose what injection format you want x86 / x64
 - IAT dumper
 - cheat engine support + other debuggers
 - offset dumper
@@ -120,6 +118,8 @@ To apply the changes, you will need to reboot the system.
 - can hold hundred of users at one time
 - custome builds 
 - panel api + loader for the hypervisor ( if you are wanting to have a secure loader for p2c and secure method of loading )
+- bypass vanguard
+- emulate eac + be
 
 
 ## Questions ?
