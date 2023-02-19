@@ -1,12 +1,11 @@
 # HyperVisor-Injector
 - Tested on Windows 10 20h2 : OS Build 19042.1586
 # LEAVE A STAR IF IT WORKED FOR YOU ( at 200 stars for new injector release )
-# last Updated 12/01/2023
+# last Updated 19/02/2023
 
 
-# If you are interested purchasing my private source codes or want your own developed you can contact me via discord : skeng#9524
-- this is perfect if you are starting up a p2c 
-- i will not sell the same one as posted on github ( it will be fully undetected and supported for all game engines / anti-cheat )
+# If you are interested purchasing my private source codes or want your own developed, contact me via discord : skeng#9524
+- this is perfect if you are starting up a p2c or if you want to be Undetected without facing bans
 
 
 
@@ -67,8 +66,6 @@ Note: if these dont work please disable all exploit protection and TPM then try 
 - load libary
 - x86 / x64 support
 - APC Injection
-- SetWindowsHook ( uses window class name to inject )
-- RWX Injection
 
 
 ## Injection - > extra information
