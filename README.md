@@ -39,6 +39,22 @@ make sure your dll is in the same folder
 [![Video Of Injection]](https://streamable.com/gyqihv)
 
 
+
+### DLL Example:
+```
+#include <windows.h>
+#include <stdlib.h>
+
+BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReserved) {
+    if (ul_reason_for_call == DLL_PROCESS_ATTACH) {
+        // RUN YOUR CODE HERE
+    }
+
+    return TRUE;
+}
+```
+
+
 # having issues injecting on higher windows versions ?
 - type this as admin in cmd
 - reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnerableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
