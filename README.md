@@ -1,6 +1,6 @@
 # HyperVisor-Injector
 - Tested on Windows 10 20h2 : OS Build 19042.1586
-# LEAVE A STAR IF IT WORKED FOR YOU ( at 200 stars for new injector release )
+# DROP A STAR IF IT WORKED FOR YOU 
 # last Updated 19/02/2023
 
 
