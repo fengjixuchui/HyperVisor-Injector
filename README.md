@@ -1,6 +1,6 @@
 # HyperVisor-Injector
 - Tested on Windows 10 20h2 : OS Build 19042.1586
-# LEAVE A STAR IF IT WORKED FOR YOU ( 200 stars for new injector release )
+# LEAVE A STAR IF IT WORKED FOR YOU ( at 200 stars for new injector release )
 # last Updated 12/01/2023
 
 
@@ -20,7 +20,7 @@ INFORMATION: The public version of this injector Supports 64bit games only
 
        
 # active updates + changes to keep this undetected and safe to use !
-# version 5.0
+# version 6.0
 - Easy Anti Cheat Status : 🟢
 - Battleye Status : 🟢
 - Vanguard Status : 🟢
@@ -109,19 +109,6 @@ Note: if these dont work please disable all exploit protection and TPM then try 
 
 ##  WHAT ARE THE BENIFITS THAT COME WITH BUYING THE PRIVATE SOURCE CODE?
 - It is fully private source code and you will be given a complete HyperVisor with instructions + help and support needed to get everything set up and working
-
-- UI Mode ( imgui mode of the injector )
-- you can use detours + minhook
-- IAT dumper
-- cheat engine support + other debuggers
-- offset dumper
-- inject without any detections
-- have a full private source code ( fully undetected + Secure source code )
-- can hold hundred of users at one time
-- custome builds 
-- panel api + loader for the hypervisor ( if you are wanting to have a secure loader for p2c and secure method of loading )
-- bypass vanguard
-- emulate eac + be
 
 
 ## Questions ?
