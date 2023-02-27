@@ -4,7 +4,7 @@
 # last Updated 19/02/2023
 
 
-# If you are interested purchasing my private source codes or want your own developed, contact me via discord : skeng#9524
+# If you are interested purchasing my private source codes or want your own developed, contact me via discord : Skeng#6969
 - this is perfect if you are starting up a p2c or if you want to be Undetected without facing bans
 
 
