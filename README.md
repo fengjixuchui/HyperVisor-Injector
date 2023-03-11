@@ -1,6 +1,6 @@
 # HyperVisor-Injector
 - Tested on Windows 10 20h2 : OS Build 19042.1586
-# DROP A STAR IF IT WORKED FOR YOU 
+# 200 stars for new injection release 
 # last Updated 19/02/2023
 
 
@@ -19,7 +19,7 @@ INFORMATION: The public version of this injector Supports 64bit games only
 
        
 # active updates + changes to keep this undetected and safe to use !
-# version 6.0
+# version 7.0
 - Easy Anti Cheat Status : 🟢
 - Battleye Status : 🟢
 - Vanguard Status : 🟢
@@ -40,7 +40,7 @@ make sure your dll is in the same folder
 
 
 
-### DLL Example:
+### C++ DLL Example:
 ```
 #include <windows.h>
 #include <stdlib.h>
@@ -56,6 +56,7 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReser
 
 
 # having issues injecting on higher windows versions ?
+Disable exploit protection in windows
 - type this as admin in cmd
 - reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnerableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
 - reg add HKLM\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity/v "Enabled" /t REG_DWORD /d 0 /f
@@ -64,7 +65,7 @@ To apply the changes, you will need to reboot the system.
 Note: if these dont work please disable all exploit protection and TPM then try again
 
 
-## How to find the class to inject into ?
+## How to find the class name
 - head over to https://www.nirsoft.net/utils/winlister.html and download winlister x64 or x32
 - open it up look for your process for my example i will use notepad
 - double click on the process that you are wanting to inject into 
@@ -76,11 +77,10 @@ Note: if these dont work please disable all exploit protection and TPM then try 
 
 ## Supports Intel + Amd Cpu's
 
-
+What the private source has 
 ## Multiple Injection methods To Choose
 - Manual Map
 - load libary
-- x86 / x64 support
 - APC Injection
 
 
