@@ -1,15 +1,17 @@
-# HyperVisor-Injector
+# Windows Hyper-Visor Injector
 - Tested on Windows 10 20h2 : OS Build 19042.1586
-# 200 stars for new injection release 
-# last Updated 19/02/2023
-
-
-# If you are interested purchasing my private source codes or want your own developed, contact me via discord : Skeng#6969
-- this is perfect if you are starting up a p2c or if you want to be Undetected without facing bans
 
 
 
-# before using you must do this
+# If you are interested in buying my Private source codes or would like your own project to be developed, contact me via discord at: Skeng#6969
+- I have multiple sources for sale
+- Private Source Is perfect if you are starting up a p2c or if you want to be Undetected without facing bans
+- I will only respond to serious Enquiries/Offers, Time wasters will not be tolerated.
+- The private source code is fully undetected and has a lot more features and security than the public TEST version, it also supports all games + engines with much more flexabilty.
+
+Vouches + Proof can be shown.
+ 
+# before using do this
 Please enable hyper-v in "turn windows features on or off". Then run launch.bat as admin, this will mount the EFI partition and move some files around then reboot you. Voyager is designed to recover from a crash. The first thing Voyager will do when executed is restore bootmgfw on disk. If any complications occur during boot you can simply reboot.
 
 <img src="https://imgur.com/uOpcCp7.png">
@@ -19,12 +21,11 @@ INFORMATION: The public version of this injector Supports 64bit games only
 
        
 # active updates + changes to keep this undetected and safe to use !
-# version 7.0
+# version 8.0
 - Easy Anti Cheat Status : 🟢
 - Battleye Status : 🟢
-- Vanguard Status : 🟢
-- BattleEye Status : 🟢
-- Riochet Status : 🟢
+- (Private) Vanguard Status : 🟢
+- (Private) Riochet Status : 🟢
 
 
 ## [ How To Use Injector ? ] 
@@ -56,7 +57,9 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReser
 
 
 # having issues injecting on higher windows versions ?
-Disable exploit protection in windows
+You must Disable exploit protection in windows
+Disable Secure Boot/fast boot in Bios settings
+
 - type this as admin in cmd
 - reg add HKLM\SYSTEM\CurrentControlSet\CI\Config /v "VulnerableDriverBlocklistEnable" /t REG_DWORD /d 0 /f
 - reg add HKLM\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity/v "Enabled" /t REG_DWORD /d 0 /f
@@ -77,11 +80,19 @@ Note: if these dont work please disable all exploit protection and TPM then try 
 
 ## Supports Intel + Amd Cpu's
 
-What the private source has 
+What Does the private source includes: 
+
+- all windows versions 
+
+
+- In-Built hardware spoofer 
+- EPT Hooks
+
 ## Multiple Injection methods To Choose
 - Manual Map
-- load libary
+- Load libary
 - APC Injection
+- Windows Hook
 
 
 ## Injection - > extra information
@@ -106,8 +117,8 @@ What the private source has
 - Allows You To Switch To NtQueryVirtualMemory For Checking Loaded Modules
 
 
-## Requirements
-- C++ Redistributables 2015, 2017, 2019, and 2022 
+## Requirements before use
+- C++ Redistributables 
 - download at https://www.microsoft.com/en-gb/download/details.aspx?id=48145
 
 # Remote code execution
@@ -120,12 +131,10 @@ What the private source has
 
 
 
-##  WHAT ARE THE BENIFITS THAT COME WITH BUYING THE PRIVATE SOURCE CODE?
-- It is fully private source code and you will be given a complete HyperVisor with instructions + help and support needed to get everything set up and working
 
 
 ## Questions ?
-- Q: does it work for all games | A: yes this does works for all games 
+- Q: does it work for all games | A: yes this does works for all games that are 64bit
 - Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
 - Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
 - Q: If i purchase do i get the same source as the public version | A: No you get a completly private source code that only you will have
